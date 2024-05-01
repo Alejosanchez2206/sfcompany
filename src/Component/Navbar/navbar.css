@@ -26,6 +26,17 @@ header {
 	color: var(--textColor);	
 }
 
+
+.logo_mangos {
+    width: 60%;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 0 10px var(--mainColor);
+    background-color: rgba(255, 255, 255, 0.5); /* Color de fondo con transparencia */
+    backdrop-filter: blur(5px); /* Efecto de desenfoque al fondo */
+    border: 1px solid rgba(255, 255, 255, 0.5); /* Borde opcional para realzar el efecto */
+}
+
 nav {
     width: 100%;
     display: flex;

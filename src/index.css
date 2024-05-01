@@ -3,9 +3,11 @@
 
 * {
     font-family: "Archivo Narrow", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
+
+
 
 .super-navbar {
     position: sticky;

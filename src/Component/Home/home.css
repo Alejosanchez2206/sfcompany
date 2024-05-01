@@ -35,6 +35,7 @@
     width: 150px;
     text-align: center;
     cursor: pointer;
+    color: white;
 }
 
 .contenido_img{
@@ -45,7 +46,7 @@
 
 }
 
-.logo_mangos{
+.logo_mangos {
     width: 60%;
     object-fit: cover;
     border-radius: 10px;

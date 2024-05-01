@@ -18,7 +18,7 @@ function index() {
           de nuestros clientes, sino que también los ayudan a alcanzar nuevos niveles de eficiencia y crecimiento.
         </p>
        
-        <Link to='contact'>Contactactanos</Link>
+        <Link to='contact'>Contáctanos</Link>
       </div>
       <div className='contenido_img'>
         <img className='logo_mangos' src={LogoMangos} alt="mangos_logo" />
