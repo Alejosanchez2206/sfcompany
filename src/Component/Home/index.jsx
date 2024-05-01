@@ -1,6 +1,7 @@
 import React from 'react'
 import './home.css'
 import LogoMangos from '../../assets/mangos.png'
+import { Link, animateScroll as scroll } from 'react-scroll';
 
 function index() {
   return (
@@ -17,7 +18,7 @@ function index() {
           de nuestros clientes, sino que también los ayudan a alcanzar nuevos niveles de eficiencia y crecimiento.
         </p>
        
-        <a href='#contact'>Contact Me</a>
+        <Link to='contact'>Contactatanos</Link>
       </div>
       <div className='contenido_img'>
         <img className='logo_mangos' src={LogoMangos} alt="mangos_logo" />
