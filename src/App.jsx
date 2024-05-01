@@ -1,6 +1,5 @@
 
 import Navbar from './Component/Navbar'
-import { Parallax } from 'react-parallax';
 import Home from './Component/Home';
 import Project from './Component/Project';
 import Contact from './Component/Contact';
