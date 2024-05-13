@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Project 1",
+        "image": "https://i.imgur.com/oYiTqum.jpg",
+        "description": "This is project 1 description"
+    },
+    {
+        "id": 2,
+        "name": "Project 2",
+        "image": "https://i.imgur.com/oYiTqum.jpg",
+        "description": "This is project 2 description"
+    },
+    {
+        "id": 3,
+        "name": "Project 3",
+        "image": "https://i.imgur.com/oYiTqum.jpg",
+        "description": "This is project 3 description"
+    },
+    {
+        "id": 4,
+        "name": "Project 4",
+        "image": "https://i.imgur.com/oYiTqum.jpg",
+        "description": "This is project 4 description"
+    },
+    {
+        "id": 5,
+        "name": "Project 5",
+        "image": "https://i.imgur.com/oYiTqum.jpg",
+        "description": "This is project 5 description"
+    },
+    {
+        "id": 6,
+        "name": "Project 6",
+        "image": "https://i.imgur.com/oYiTqum.jpg",
+        "description": "This is project 6 description"
+    }
+]
