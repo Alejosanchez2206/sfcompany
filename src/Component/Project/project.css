@@ -9,7 +9,7 @@
 
 .cards {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
     gap: 2rem;
     margin: 4rem 5vw;
     padding: 0;
@@ -134,7 +134,7 @@
 @media (max-width: 768px) {
     .cards {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(50%, 1fr));
         gap: 2rem;
         margin: 4rem 5vw;
         padding: 0;
@@ -145,12 +145,11 @@
 @media (max-width: 480px) {
     .cards {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
         gap: 2rem;
         margin: 4rem 5vw;
         padding: 0;
         list-style-type: none;
     }
-
 
 }

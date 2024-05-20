@@ -24,7 +24,6 @@ function Project() {
             </a>
           </li>
         ))}
-
       </ul>
     </div>
   )

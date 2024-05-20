@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Desarrollo Web",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHKJwEpfxPoFML2wsFEpPkjmBNy-3QC3CG-KYMNnUWmGqbrRAeYHh2ltn_mh2b141t-Q&usqp=CAU",
+        "description": "El servicio de diseño de páginas web ofrece desarrollo de sitios personalizados y adaptativos, con un diseño visual atractivo e integración de herramientas de comercio electrónico y gestión de contenido."
+    },
+    {
+        "id": 2,
+        "name": "Mantenimiento de Equipos de Cómputo",
+        "image": "https://img.freepik.com/foto-gratis/comprobacion-corriente-placa-circuito-portatil_1098-13759.jpg?size=626&ext=jpg&ga=GA1.1.44546679.1716076800&semt=ais_user",
+        "description": "El mantenimiento de equipos de cómputo incluye diagnóstico y reparación de hardware y software, actualizaciones de sistemas operativos y programas, y optimización del rendimiento y seguridad."
+    },
+    {
+        "id": 3,
+        "name": "Diseño e Instalación de Redes de Telecomunicaciones",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0XUgtS7Qk65i8faRb15d570LXZxmUFRuK-gu_7Gk_RlEJB0NHea-cuziVRAweTzI_AzYVq8N6_gWDYrf32S3tA1LttEE-9SO3HqXFx_UYhxOOg3DmMyh2FutYNeyD_uKyg6DaJXb76b60/s1600/centro-de-datos-moderno.jpg",
+        "description": "El servicio de diseño e instalación de redes incluye personalización de redes, configuración de equipos y pruebas de rendimiento."
+    },
+    {
+        "id": 4,
+        "name": "Desarrollo de Software",
+        "image": "https://global.tiffin.edu/img/article/cuales-son-las-etapas-del-desarrollo-de-software.webp",
+        "description": "El desarrollo de software abarca el diseño, desarrollo y pruebas de aplicaciones personalizadas, incluyendo aplicaciones móviles para iOS y Android, junto con mantenimiento y soporte continuo."
+    }
+]
